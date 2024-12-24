@@ -3,7 +3,10 @@ slot_not_buy: "Slot locked"
 button_upgrade_pets: "Upgrading"
 empty_slot_on_pet: "Empty slot pet"
 title_rarity: "Rarity pets"
-text_rarity: "Rarities\nThe higher the rarity, the greater\nthe multiplier boost will be"
+text_rarity: |-
+ Rarities
+ The higher the rarity, the greater
+ the multiplier boost will be
 button_confirm_upgrade: "Confirm upgrade"
 button_rarity_delete_pet: "Delete specific rarity"
 no_selected_upgrade_pet: "No pet selected"
@@ -19,3 +22,6 @@ epic: "Epic"
 legendary: "Legendary"
 token: "Token"
 gems: "Gems"
+lore: |-
+  %type
+  %rarity
