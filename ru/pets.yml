@@ -17,5 +17,7 @@ basic: "Обычный"
 rare: "Редкий"
 epic: "Эпический"
 legendary: "Легендарный"
-token: "Токен"
+token: |-
+  Токен
+  Редкость: %rarity
 gems: "Гемы"
