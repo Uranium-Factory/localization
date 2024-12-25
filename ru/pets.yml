@@ -22,7 +22,9 @@ button_delete_basic_pets: "Удалить обычных петов"
 button_delete_rare_pets: "Удалить редких петов"
 button_delete_epic_pets: "Удалить эпических петов"
 button_delete_legendary_pets: "Удалить легендарных петов"
-text_gives_pets: "Вы получили"
+text_give_pets:  |- 
+  Вы получили
+  %pet
 basic: "Обычный"
 rare: "Редкий"
 epic: "Эпический"
