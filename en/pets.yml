@@ -22,7 +22,7 @@ button_delete_basic_pets: "Delete common pets"
 button_delete_rare_pets: "Delete rare pets"
 button_delete_epic_pets: "Delete epic pets"
 button_delete_legendary_pets: "Delete legendary pets"
-text_gives_pets: |- 
+text_give_pets: |- 
   You got
   %pet
 basic: "Basic"
