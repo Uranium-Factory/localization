@@ -15,7 +15,14 @@ page_lore: "Click to turn"
 next_page: "Next page"
 page: "Page"
 button_delete_pet: "Delete pets"
-button_delete_simple_pets: "Delete common pets"
+text_delete_rarity: |- 
+  This will delete all the basic
+  unique pets your storage
+button_delete_basic_pets: "Delete common pets"
+button_delete_rare_pets: "Delete rare pets"
+button_delete_epic_pets: "Delete epic pets"
+button_delete_legendary_pets: "Delete legendary pets"
+text_gives_pets: "You got"
 basic: "Basic"
 rare: "Rare"
 epic: "Epic"

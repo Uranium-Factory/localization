@@ -15,7 +15,14 @@ page_lore: "Нажмите, чтобы перейти"
 next_page: "Следующая страница"
 page: "Страница"
 button_delete_pet: "Удаление питомцев"
-button_delete_simple_pets: "Удалить обычных питомцев"
+text_delete_rarity: |- 
+  Это удалит всех обычных уникальных
+  питомцев из вашего хранилища
+button_delete_basic_pets: "Удалить обычных петов"
+button_delete_rare_pets: "Удалить редких петов"
+button_delete_epic_pets: "Удалить эпических петов"
+button_delete_legendary_pets: "Удалить легендарных петов"
+text_gives_pets: "Вы получили"
 basic: "Обычный"
 rare: "Редкий"
 epic: "Эпический"
