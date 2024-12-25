@@ -23,8 +23,7 @@ button_delete_rare_pets: "Delete rare pets"
 button_delete_epic_pets: "Delete epic pets"
 button_delete_legendary_pets: "Delete legendary pets"
 text_give_pets: |- 
-  You got
-  %pet
+  You got %pet
 basic: "Basic"
 rare: "Rare"
 epic: "Epic"
