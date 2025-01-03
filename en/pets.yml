@@ -3,8 +3,8 @@ slot_not_buy: "Slot locked"
 button_upgrade_pets: "Upgrading"
 empty_slot_on_pet: "Empty slot pet"
 title_rarity: "Rarity pets"
-text_rarity: |-
- Rarities
+title_information_rarity: "Rarities"
+text_information_rarity: |-
  The higher the rarity, the greater
  the multiplier boost will be
 button_confirm_upgrade: "Confirm upgrade"
@@ -18,10 +18,14 @@ button_delete_pet: "Delete pets"
 text_delete_rarity: |- 
   This will delete all the basic
   unique pets your storage
-button_delete_basic_pets: "Delete common pets"
-button_delete_rare_pets: "Delete rare pets"
-button_delete_epic_pets: "Delete epic pets"
-button_delete_legendary_pets: "Delete legendary pets"
+button_delete_basic_pets: |-
+  Delete common pets %count
+button_delete_rare_pets: |-
+  Delete rare pets %count
+button_delete_epic_pets: |-
+  Delete epic pets %count
+button_delete_legendary_pets: |-
+  Delete legendary pets %count
 text_give_pets: |- 
   You got %pet
 basic: "Basic"

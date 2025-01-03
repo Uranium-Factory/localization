@@ -4,10 +4,10 @@ button_upgrade_pets: "Улучшение"
 empty_slot_on_pet: "Доступный слот"
 button_rarity_delete_pet: "Удалить определённую редкость"
 title_rarity: "Редкость питомцев"
-text_rarity: |-
-    Редкость
+title_information_rarity: "Редкость"
+text_information_rarity: |-
     Чем выше редкость, тем больше
-    будет
+    будет множитель буста 
 button_confirm_upgrade: "Подтвердить улучшение"
 no_selected_upgrade_pet: "Питомец не выбран"
 back_page: "Предыдущая страница"
@@ -18,10 +18,14 @@ button_delete_pet: "Удаление питомцев"
 text_delete_rarity: |- 
   Это удалит всех обычных уникальных
   питомцев из вашего хранилища
-button_delete_basic_pets: "Удалить обычных петов"
-button_delete_rare_pets: "Удалить редких петов"
-button_delete_epic_pets: "Удалить эпических петов"
-button_delete_legendary_pets: "Удалить легендарных петов"
+button_delete_basic_pets: |-
+  Удалить обычных петов %count
+button_delete_rare_pets: |-
+  Удалить редких петов %count
+button_delete_epic_pets: |-
+  Удалить эпических петов %count
+button_delete_legendary_pets: |-
+  Удалить легендарных петов %count
 text_give_pets:  |- 
   Вы получили %pet
 basic: "Обычный"
